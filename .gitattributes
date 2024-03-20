@@ -1,0 +1,6 @@
+# Set the line ending style for text files
+* text=auto
+
+# Explicitly specify binary files
+*.png binary
+*.jpg binary
