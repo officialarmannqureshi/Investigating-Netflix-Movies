@@ -30,8 +30,11 @@ This dataset contains information about Netflix shows. Here's a breakdown of the
 ## Getting Started
 1. Clone this repository.
 2. Explore the `netflix_data.csv` file containing the dataset.
-3. Use your Python skills for exploratory data analysis or preview the already implemented analysis by opening jupyter notebook.
+3. Use your Python skills for exploratory data analysis or preview the already implemented analysis by opening the Jupyter notebook.
 4. Dive into the Netflix data to analyze movie durations.
+
+## Analysis Carried Out
+![image](https://github.com/officialarmannqureshi/Investigating-Netflix-Movies/assets/91754196/d92b16a9-dd10-416a-b08c-ac5dd18b0198)
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or share your insights.
